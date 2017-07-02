@@ -1,0 +1,15 @@
+layer;info
+convolution;filters=16,filter_size=7,strides=(1,1)
+max pooling;kernel=(2,2),strides=(2,2)
+local response normalization
+convolution;filters=32,filter_size=3,strides=(1,1)
+convolution;filters=32,filter_size=3,strides=(1,1)
+max pooling;kernel=(2,2),strides=(2,2)
+local response normalization
+flatten
+dropout
+fully connected;inputs=256,outs=256
+dropout
+fully connected;inputs=256,outs=256
+dropout
+fully connected (logits);inputs=256,outs=43
