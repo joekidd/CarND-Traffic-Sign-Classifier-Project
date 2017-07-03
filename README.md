@@ -3,5 +3,5 @@
 
 Index
 ---
-1. [Code](Traffic_Sign_Classifier.ipynb)
-2. [Writeup](Writeup.ipynb)
+1. [Code](Traffic_Sign_Classifier.html)
+2. [Writeup](Writeup.html)
