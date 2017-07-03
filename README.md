@@ -3,5 +3,5 @@
 
 Index
 ---
-1. [Code](Traffic_Sign_Classifier.html)
+1. [Code](http://htmlpreview.github.io/?https://github.com/joekidd/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.html)
 2. [Writeup](http://htmlpreview.github.io/?https://github.com/joekidd/CarND-Traffic-Sign-Classifier-Project/blob/master/Writeup.html)
